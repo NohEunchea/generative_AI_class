@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Python-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+
 # 생성형 AI를 활용한 생성형 인공지능 수업 강의 자료
 
 이 프로젝트는 생성형 AI 기술을 활용하여 다양한 시나리오와 환경을 구현하는 데 사용되는 수업 강의 자료입니다.
