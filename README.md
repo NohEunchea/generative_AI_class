@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Python-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/Python-색상?style=for-the-badge&logo=Python&logoColor=white">
 
 # 생성형 AI를 활용한 생성형 인공지능 수업 강의 자료
 
